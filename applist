@@ -1,3 +1,5 @@
 # APPLIST SPEC
 #  COMMENT LINE BEGINS WITH '#' (whole line only)
 #  ONE .git URL PER LINE
+
+https://github.com/2020G11/demo_saynote.git
